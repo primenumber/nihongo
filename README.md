@@ -5,7 +5,8 @@ post内容のローマ字をひらがなに変換するmikutterプラグイン�
 
 ## Install
 
- git clone https://github.com/primenumber/nihongo.git ~/.mikutter/plugin/nihongo
+    gem install romankana --user-install
+    git clone https://github.com/primenumber/nihongo.git ~/.mikutter/plugin/nihongo
 
 ## License
 
